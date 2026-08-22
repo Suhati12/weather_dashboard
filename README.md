@@ -11,7 +11,7 @@ A beautiful, feature-rich weather dashboard built with **Streamlit** and **reque
 | 🌬️ **Air Quality** | Real-time AQI with US EPA scale + pollutant levels (PM2.5, PM10, O3, NO2, SO2, CO, NH3) |
 | 🗺️ **Interactive Map** | Folium map with city marker and surrounding area highlight |
 
-## 🚀 How to Run
+# 🚀 How to Run
 
 ```bash
 # 1. Install dependencies
