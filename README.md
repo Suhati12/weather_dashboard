@@ -2,7 +2,7 @@
 
 A beautiful, feature-rich weather dashboard built with **Streamlit** and **requests**, powered by the **OpenWeatherMap API**. Inspired by the popular [re4day weather dashboard](https://github.com/re4day/Weather-Dashboards).
 
-## ✨ Features
+# ✨ Features
 
 | Feature | Description |
 |---------|-------------|
